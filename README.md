@@ -6,7 +6,8 @@ This section presents a detailed Exploratory Data Analysis (EDA) of the experime
 
 **Figure 1: Normalized Decision Matrix of WEDM Responses (MRR, SR, KW)**
 The experimental response values for Material Removal Rate (MRR), Surface Roughness (SR), and Kerf Width (KW) are normalized to eliminate scale differences. This matrix forms the basis for calculating entropy and weight for each criterion.
-*(Screenshot: Screenshot 2025-06-02 223238.png)*
+![Screenshot 2025-06-02 223533](https://github.com/user-attachments/assets/efc50e4a-ad7b-43ed-b450-09b18cc7f361)
+
 
 ---
 
